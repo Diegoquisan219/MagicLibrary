@@ -36,3 +36,11 @@ build
 # Ignora configuración del proyecto eclipse
 .project
 .settings
+
+#Ignora ficheros de eclipse
+bin/
+tmp/ 
+*.tmp
+*.bak
+*.swp
+*.project
